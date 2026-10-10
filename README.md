@@ -1,7 +1,5 @@
 # Shopkits
 
-Tools for e-commerce sellers. 🪏 🔨
+**Tools for e-commerce sellers.** 🪏 🔨
 
----
-
-**Contact:** dev@shopkits.co
+Contact: dev@shopkits.co
